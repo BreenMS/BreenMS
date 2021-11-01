@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BreenMS
-- 👀 We use genetic and genomic tools to study gene expression and RNA editing in brain development and neurodevelopmental disorders.
+- 👋 Hi
+- 👀 We study gene expression and RNA editing in brain development and neurodevelopmental disorders.
 
 <!---
 BreenMS/BreenMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
